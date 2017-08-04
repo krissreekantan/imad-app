@@ -1,1 +1,1 @@
-console.out("github".length)
+confirm("Do you want to continue?");
